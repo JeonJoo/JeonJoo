@@ -15,5 +15,5 @@ Here are some ideas to get you started
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeonJoo&theme=swift&repo=Detection_test_program)](https://github.com/JeonJoo/Detection_test_program) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeonJoo&theme=swift&repo=cus_labeling_tool_object_detection)](https://github.com/JeonJoo/cus_labeling_tool_object_detection)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joohwan&theme=swift&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJoo&theme=swift&show_icons=true)
 
